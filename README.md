@@ -9,13 +9,12 @@ Application web Spring Boot permettant de gérer les tournois esport.
 1. **Prérequis:**
    * Java 11+
    * Maven
-   * Une base de données PostgreSQL
+   * Une base de données SQL
 2. **Cloner le dépôt:**
-   ```bash
 
 
-Installer les dépendances:
-   cd projet-esport
+3. **Installer les dépendances: **
+cd projet-esport
 mvn clean install
 
 
