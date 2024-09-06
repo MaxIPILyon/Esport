@@ -1,6 +1,5 @@
 package com.ipi.esport.dao;
 
-import com.ipi.esport.pojos.Equipe_fifa;
 import com.ipi.esport.pojos.Equipe_lol;
 import org.springframework.data.jpa.repository.JpaRepository;
 

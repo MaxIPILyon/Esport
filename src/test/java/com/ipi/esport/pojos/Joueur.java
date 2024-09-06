@@ -1,7 +1,6 @@
 package com.ipi.esport.pojos;
 
 import jakarta.persistence.*;
-import java.util.List;
 
 @Entity
 public class Joueur {
